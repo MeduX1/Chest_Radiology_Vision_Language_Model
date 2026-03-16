@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+llava
+sqlalchemy
+ollama
+python-multipart
+celery
+redis

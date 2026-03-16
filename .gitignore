@@ -1,0 +1,14 @@
+# Python Virtual Environment
+venv/
+__pycache__/
+
+# Local Databases
+*.db
+*.sqlite3
+
+# Uploaded Medical Scans
+uploads/
+!uploads/.gitkeep
+
+# Environment variables
+.env
